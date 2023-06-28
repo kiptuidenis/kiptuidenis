@@ -9,7 +9,7 @@
 - 📫 How to reach me: kiptuidenis@gmail.com
 - ⚡ Fun fact: ...
   <p align="center">
-  <img src="[https://example.com/path/to/your/gif.gif](https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif)" alt="alt text">
+  <img src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="alt text">
 </p>
 
 
