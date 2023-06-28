@@ -7,3 +7,6 @@
 - 📫 How to reach me: kiptuidenis@gmail.com
 - ⚡ Fun fact: ...
 
+# :wrench: Tools of Trade:
+**Operating Systems:**
+Linux Windows
