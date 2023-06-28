@@ -1,6 +1,5 @@
-# <p align="center">Hi there 👋, I'm Kiptui Denis
-**A passionate Graduate Engineer(Electronic) and Full Stack Developer from Kenya**
-</p>
+# <p align="center">Hi there 👋, I'm Kiptui Denis</p>
+**<p align="center">A passionate Graduate Engineer(Electronic) and Full Stack Developer from Kenya</P>**
 
 - 🌱 I’m currently learning **Software Engineering**
 - :man_technologist: Some of my projects are available at GitHub Repository
