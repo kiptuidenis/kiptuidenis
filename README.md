@@ -16,7 +16,7 @@
   </div>
 </div>
 
-
+![](https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif) | Text content
 
 # :wrench: Tools of Trade:
 **Operating Systems:**
