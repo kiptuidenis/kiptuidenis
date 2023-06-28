@@ -9,8 +9,9 @@
 - 📫 How to reach me: kiptuidenis@gmail.com
 - ⚡ Fun fact: ...
   <p align="center">
-  ![](https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif)
-  </p>
+  <img src="[https://example.com/path/to/your/gif.gif](https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif)" alt="alt text">
+</p>
+
 
 # :wrench: Tools of Trade:
 **Operating Systems:**
