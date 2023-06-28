@@ -8,7 +8,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: kiptuidenis@gmail.com
 - ⚡ Fun fact: ...
-  <p align="justify">
+  <p align="right">
   <img src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="alt text">
 </p>
 
