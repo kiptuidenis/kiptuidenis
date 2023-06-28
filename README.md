@@ -1,4 +1,4 @@
-#              Hi there 👋, I'm Kiptui Denis
+# <p style="text-align: center;">Hi there 👋, I'm Kiptui Denis</p>
 
 
 - 🌱 I’m currently learning *Software Engineering*
