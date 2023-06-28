@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kiptui Denis
+# Hi there 👋, I'm Kiptui Denis
 
 
 - 🌱 I’m currently learning *Software Engineering*
