@@ -17,7 +17,7 @@
 </div>
 
 
-| <img src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image" width="1000"> | Text |
+| <img src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image" width="500"> | Text |
 |-----------------------------------------------|------|
 
 
