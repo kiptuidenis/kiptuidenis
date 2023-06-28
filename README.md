@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://example.com/path/to/your/gif.gif" alt="alt text">
+    <img src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="alt text">
   </div>
 </div>
 
