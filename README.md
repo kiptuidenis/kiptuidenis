@@ -6,7 +6,9 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: kiptuidenis@gmail.com
 - ⚡ Fun fact: ...
+  <p align="center">
   ![](https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif)
+  </p>
 
 # :wrench: Tools of Trade:
 **Operating Systems:**
