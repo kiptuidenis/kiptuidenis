@@ -16,9 +16,8 @@
   </div>
 </div>
 
-![](https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif) | Text content
 
-| <img src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image" width="100"> | Text |
+| <img src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image" width="1000"> | Text |
 |-----------------------------------------------|------|
 
 
