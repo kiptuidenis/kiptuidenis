@@ -3,8 +3,7 @@
 
 # <p align="center">:briefcase: Key Info and Links</p>
 - 🌱 I’m currently learning **Software Engineering**
-- :man_technologist: Some of my projects are available at GitHub Repository
-  <p align="justify">
+- :man_technologist: Some of my projects are available at GitHub Repository   <p align="right">
   <img src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="alt text">
 </p>
 - 💬 Ask me about ...
