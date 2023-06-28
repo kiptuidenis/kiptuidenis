@@ -18,6 +18,10 @@
 
 ![](https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif) | Text content
 
+| <img src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image" width="100"> | Text |
+|-----------------------------------------------|------|
+
+
 # :wrench: Tools of Trade:
 **Operating Systems:**
 Linux Windows
