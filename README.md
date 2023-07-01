@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image Description">
 
 
-- 🔭 I’m currently working on **Alx Projects**
+- 🔭 I’m currently working on **Contact Management System**
 
 - 🌱 I’m currently learning **Software Engineering**
 
