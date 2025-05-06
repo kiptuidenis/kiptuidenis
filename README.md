@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kiptui Denis</h1>
-<h3 align="center">A passionate Graduate Engineer(Electronic) and Full Stack developer from Kenya</h3>
+<h3 align="center">A passionate Graduate Engineer(Electronic) and Data Scientist from Kenya</h3>
 <h1 align="center">:briefcase: Key Info and Links</h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image Description">
 
 
-- 🔭 I’m currently working on **Contact Management System**
+- 🔭 I’m currently working on **SmartBudget App**
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **C, Arduino Uno.**
+- 💬 Ask me about **Machine Learning Algorithms**
 
 - 📫 How to reach me **kiptuidenis@gmail.com**
 
