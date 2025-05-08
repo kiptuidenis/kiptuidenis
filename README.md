@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image Description">
 
 
-- 🔭 I’m currently working on **SmartBudget App**
+- 🔭 I’m currently working on **BURSAR APP**
 
 - 🌱 I’m currently learning **Data Science**
 
