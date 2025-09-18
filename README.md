@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kiptui Denis</h1>
-<h3 align="center">A passionate Graduate Engineer(Electronic) and Data Scientist from Kenya</h3>
+<h3 align="center">Jaseci Engineer from Kenya</h3>
 <h1 align="center">:briefcase: Key Info and Links</h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image Description">
 
 
 - 🔭 I’m currently working on **BURSAR APP**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Jac**
 
-- 💬 Ask me about **Machine Learning Algorithms**
+- 💬 Ask me about **Jac and Jaseci**
 
 - 📫 How to reach me **kiptuidenis@gmail.com**
 
