@@ -14,12 +14,6 @@
 
 - ⚡ Fun fact **Nairobi, the capitol of Kenya has earned the nickname "Silicon Savannah" due to its thriving tech industry.**
 
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://twitter.com/kiptuidenis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiptuidenis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kiptuidenis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiptuidenis" height="30" width="40" /></a>
-</p>
-
 <h1 align="left">🔧 Languages and Tools:</h1>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -27,9 +21,6 @@
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C language" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
